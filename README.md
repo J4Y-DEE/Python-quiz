@@ -18,3 +18,15 @@
 
 '''bash
 Python3 quiz.py
+
+
+
+''' Markdown:
+## How the quiz works:
+- - Questions are stored in a list called 'quiz', each as a tuple:
+  (question string, answer string or list of possible answers)
+- The 'run_quiz(Questions)' function:
+  - Loops through all questions
+  - Compares user input to the correct answer(s)
+  - Supports multiple valid answers
+  - Tracks and displays the final score
