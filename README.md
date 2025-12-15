@@ -17,7 +17,7 @@
 3. Run the following command:
 
 '''bash
-Python3 quiz.py
+python3 quiz.py
 
 
 
